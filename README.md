@@ -1,4 +1,7 @@
-### Hi there 👋
+# Official Repository of xorb_kr
+#### Gachon Univ Student. 202235063 송태규
+
+I like melon crush. 
 
 <!--
 **bokjeongman/bokjeongman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
