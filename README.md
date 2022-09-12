@@ -1,4 +1,4 @@
-# Official Repository of xorb_kr
+# Official Repository of xorb_kr(bokjeongman)
 #### Gachon Univ Student. 202235063 송태규
 
 I like melon crush. 
