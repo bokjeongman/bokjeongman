@@ -1,7 +1,9 @@
 # Official Repository of xorb_kr(bokjeongman)
 #### Gachon Univ Student. 202235063 송태규
 
-I like melon crush. 
+I like melon.
+I need ice americano ...
+
 
 <!--
 **bokjeongman/bokjeongman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
