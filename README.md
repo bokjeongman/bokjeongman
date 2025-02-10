@@ -1,5 +1,5 @@
-# Official Repository of xorb_kr(bokjeongman)
-#### Gachon Univ Student. 202235063 송태규
+# 안녕하세요 Hello I'm Song Tae Gyu
+#### Gachon Univ Student. 22학번 AI major 송태규
 
 I like melon.
 I need ice americano ...
